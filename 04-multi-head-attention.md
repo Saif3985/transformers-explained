@@ -1,5 +1,13 @@
 # 04. Multi-Head Attention
 
+
+<div align="center">
+  <img src="Attention_is_all_you_need.jpeg" alt="Attention is All You Need" width="700">
+  <p><em>The paper that started it all: "Attention is All You Need" (Vaswani et al., 2017)</em></p>
+</div>
+
+---
+
 ## 🤔 Opening Questions
 
 Before we dive in, think about these:
