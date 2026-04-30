@@ -1,5 +1,13 @@
 # 03. Scaled Dot-Product Attention
 
+
+<div align="center">
+  <img src="Attention_is_all_you_need.jpeg" alt="Attention is All You Need" width="700">
+  <p><em>The paper that started it all: "Attention is All You Need" (Vaswani et al., 2017)</em></p>
+</div>
+
+---
+
 ## 🤔 Questions to Think About
 
 Before we dive in, ask yourself:
