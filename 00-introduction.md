@@ -1,5 +1,14 @@
 # Transformers Explained: From Basics to Architecture
 
+From Basics to Architecture
+
+<div align="center">
+  <img src="Attention_is_all_you_need.jpeg" alt="Attention is All You Need" width="700">
+  <p><em>The paper that started it all: "Attention is All You Need" (Vaswani et al., 2017)</em></p>
+</div>
+
+---
+
 ## What is a Transformer?
 
 Just like we have different neural network architectures for different types of data:
