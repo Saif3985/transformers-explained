@@ -495,3 +495,16 @@ Attention(Q, K, V) = softmax(Q·K^T) × V
 - W^Q, W^K, W^V: Learnable weight matrices (d × d_k)
 - Q, K, V: Transformed representations
 - Output: Context-aware embeddings (n × d_v)
+
+---
+
+
+## 🔗 Interactive Resources
+
+🔗 **[Transformer Explainer (Interactive Visualization)](https://poloclub.github.io/transformer-explainer/)**
+
+🔗 **[Single vs Multi-Head Attention (ByHand.ai)](https://www.byhand.ai/p/library-models-attention-single-vs-multi-head)**
+
+🔗 **[Self-Attention vs Cross-Attention (ByHand.ai)](https://www.byhand.ai/p/library-models-attention-self-vs-cross)**
+
+---
