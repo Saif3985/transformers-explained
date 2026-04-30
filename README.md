@@ -20,6 +20,8 @@ Deep dive into Transformer architecture with detailed mathematical explanations 
 7. [Layer Normalization](06-layer-normalization.md) - Why not Batch Norm
 8. [Appendix: Worked Example](appendix-a-worked-example.md) - Complete calculations
 9. [Encoder Complete Part](07-encoder-architecture.md) - Complete Encoder
+10. [Masked-multi-head-attention](08-masked-multi-head-attention.md) - Masked attention
+11. [Cross-attention](09-cross-attenstion.md) - Cross-attention
 
 ## Features
 
