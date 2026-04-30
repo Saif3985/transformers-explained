@@ -1542,6 +1542,19 @@ Now that we understand scaling, we can tackle the next big concept:
 - Semantic relationships
 - Positional relationships
 
+---
+
+
+## 🔗 Interactive Resources
+
+🔗 **[Transformer Explainer (Interactive Visualization)](https://poloclub.github.io/transformer-explainer/)**
+
+🔗 **[Single vs Multi-Head Attention (ByHand.ai)](https://www.byhand.ai/p/library-models-attention-single-vs-multi-head)**
+
+🔗 **[Self-Attention vs Cross-Attention (ByHand.ai)](https://www.byhand.ai/p/library-models-attention-self-vs-cross)**
+
+---
+
 This is where **Multi-Head Attention** comes in!
 
 👉 Continue to: [04-multi-head-attention.md](04-multi-head-attention.md)
