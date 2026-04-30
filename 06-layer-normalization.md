@@ -639,3 +639,16 @@ normalized = layer_norm(x)
 ```
 
 **That's Layer Normalization explained!** 🎉
+
+---
+
+
+## 🔗 Interactive Resources
+
+🔗 **[Transformer Explainer (Interactive Visualization)](https://poloclub.github.io/transformer-explainer/)**
+
+🔗 **[Single vs Multi-Head Attention (ByHand.ai)](https://www.byhand.ai/p/library-models-attention-single-vs-multi-head)**
+
+🔗 **[Self-Attention vs Cross-Attention (ByHand.ai)](https://www.byhand.ai/p/library-models-attention-self-vs-cross)**
+
+---
