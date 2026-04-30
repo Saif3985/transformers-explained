@@ -747,3 +747,16 @@ This notebook covers:
 - ✅ Real-world applications
 
 **Run them yourself and experiment with different configurations!**
+
+---
+
+
+## 🔗 Interactive Resources
+
+🔗 **[Transformer Explainer (Interactive Visualization)](https://poloclub.github.io/transformer-explainer/)**
+
+🔗 **[Single vs Multi-Head Attention (ByHand.ai)](https://www.byhand.ai/p/library-models-attention-single-vs-multi-head)**
+
+🔗 **[Self-Attention vs Cross-Attention (ByHand.ai)](https://www.byhand.ai/p/library-models-attention-self-vs-cross)**
+
+---
