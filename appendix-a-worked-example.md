@@ -1,5 +1,13 @@
 # Appendix A: Complete Worked Example - Geometric Intuition
 
+
+<div align="center">
+  <img src="Attention_is_all_you_need.jpeg" alt="Attention is All You Need" width="700">
+  <p><em>The paper that started it all: "Attention is All You Need" (Vaswani et al., 2017)</em></p>
+</div>
+
+---
+
 ## 🎯 Goal
 
 Work through a **complete numerical example** of attention mechanism from scratch, calculating every single step with actual numbers.
