@@ -211,6 +211,17 @@ This is where **Self-Attention** comes in.
 
 ---
 
+
+## 🔗 Interactive Resources
+
+🔗 **[Transformer Explainer (Interactive Visualization)](https://poloclub.github.io/transformer-explainer/)**
+
+🔗 **[Single vs Multi-Head Attention (ByHand.ai)](https://www.byhand.ai/p/library-models-attention-single-vs-multi-head)**
+
+🔗 **[Self-Attention vs Cross-Attention (ByHand.ai)](https://www.byhand.ai/p/library-models-attention-self-vs-cross)**
+
+---
+
 ## Next: Understanding Self-Attention
 
 Now that we understand the problems, let's see how **self-attention mechanism** solves them.
