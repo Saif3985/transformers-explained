@@ -1,5 +1,13 @@
 # 02. Query, Key, and Value (QKV) Mechanism
 
+
+<div align="center">
+  <img src="Attention_is_all_you_need.jpeg" alt="Attention is All You Need" width="700">
+  <p><em>The paper that started it all: "Attention is All You Need" (Vaswani et al., 2017)</em></p>
+</div>
+
+---
+
 ## 🤔 Quick Recap: The Problem with Basic Self-Attention
 
 In the previous chapter, we used the **same embedding** for everything:
