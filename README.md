@@ -12,6 +12,7 @@ Deep dive into Transformer architecture with detailed mathematical explanations 
 6. [Positional Encoding](05-positional-encoding.md) - Sinusoidal position embeddings
 7. [Layer Normalization](06-layer-normalization.md) - Why not Batch Norm
 8. [Appendix: Worked Example](appendix-a-worked-example.md) - Complete calculations
+9. [Encoder Complete Part](07-encoder-architecture.md) - Complete Encoder
 
 ## Features
 
