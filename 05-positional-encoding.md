@@ -890,11 +890,6 @@ Now we have all the pieces:
 - Interactive exploration
 - Mathematical proofs
 
-🔗 **[CampusX Video Tutorial - Positional Encoding](https://www.youtube.com/watch?v=1biZfFLPRSY)**
-- Complete explanation with animations
-- Binary encoding intuition
-- Relative positioning deep dive
-- Live coding demonstration
 
 ---
 
