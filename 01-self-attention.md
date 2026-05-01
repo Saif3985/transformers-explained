@@ -298,6 +298,11 @@ bank_new = (weights[0] * embeddings['money'] +
             weights[2] * embeddings['grows'])
 
 print(f"New bank embedding: {bank_new}")
+
+output:
+
+New bank embedding: [0.35056444 0.40066264 0.24877292]
+
 ```
 
 This is the **essence of self-attention**!
