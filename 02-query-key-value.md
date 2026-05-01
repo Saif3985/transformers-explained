@@ -19,6 +19,14 @@ For word "bank":
 - Final representation: Used e_bank
 ```
 
+----
+
+Python dictionary structure : {key:value} ----> d = {a:2,b :3}
+
+query-->d[a] == 2 (value)
+
+---
+
 **This is like posting your entire autobiography on a  website instead of creating a proper profile!**
 
 ---
