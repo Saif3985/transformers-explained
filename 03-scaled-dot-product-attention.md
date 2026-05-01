@@ -109,7 +109,9 @@ print(f"Variance (1D): {variance_1d:.2f}")
 **Distribution of dot products (1D):**
 ```
 
-![Variance Scaling](images/1d_plot.png)
+<div align="center">
+  <img src="1d_plot.png" >
+</div>
 
 As dimensionality increases, the variance of dot products grows proportionally...
 ```
