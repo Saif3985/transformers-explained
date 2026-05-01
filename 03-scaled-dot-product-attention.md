@@ -108,18 +108,10 @@ print(f"Variance (1D): {variance_1d:.2f}")
 
 **Distribution of dot products (1D):**
 ```
-     Frequency
-        │
-   100 ├────┐
-        │    │
-        │    ││
-    50 │   ││││
-        │  ││││││
-        │ │││││││
-     0 ├─────────────────────
-       -2  0  2
-         Dot Product Value
 
+![Variance Scaling](images/1dplot.png)
+
+As dimensionality increases, the variance of dot products grows proportionally...
 ```
 
 Range: Mostly between -2 and 2  
