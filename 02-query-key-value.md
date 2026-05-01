@@ -19,11 +19,11 @@ For word "bank":
 - Final representation: Used e_bank
 ```
 
-**This is like posting your entire autobiography on a dating website instead of creating a proper profile!**
+**This is like posting your entire autobiography on a  website instead of creating a proper profile!**
 
 ---
 
-## 🎯 Real-World Analogy: The Dating Website Problem
+## 🎯 Real-World Analogy: The  Website Problem
 
 ### ❌ The Wrong Approach
 
