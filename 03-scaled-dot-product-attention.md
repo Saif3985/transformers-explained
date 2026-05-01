@@ -108,17 +108,8 @@ print(f"Variance (1D): {variance_1d:.2f}")
 
 **Distribution of dot products (1D):**
 ```
-     Frequency
-        │
-   100 ├────┐
-        │    │
-        │    ││
-    50 │   ││││
-        │  ││││││
-        │ │││││││
-     0 ├─────────────
-       -2  0  2
-     Dot Product Value
+<img width="571" height="453" alt="image" src="https://github.com/user-attachments/assets/e9072e4b-cb51-4f6d-a57c-f819edc52251" />
+
 ```
 
 Range: Mostly between -2 and 2  
