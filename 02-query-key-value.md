@@ -472,7 +472,6 @@ print(attention_weights)
 output = attention_weights @ V
 print("\nOutput (context-aware embeddings):")
 print(output)
-```
 
 Output:
 
@@ -505,6 +504,10 @@ Output (context-aware embeddings):
 [[0.33568137 0.35433579 0.38248713]
  [0.33551073 0.3551368  0.38201435]
  [0.33488533 0.34911074 0.38700295]]
+
+```
+
+
 
 ---
 
