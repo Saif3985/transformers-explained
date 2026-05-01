@@ -103,7 +103,7 @@ for _ in range(1000):
 
 variance_1d = np.var(results_1d)
 print(f"Variance (1D): {variance_1d:.2f}")
-# Output: Variance (1D): ~1.0
+# Variance (1D): 0.81
 ```
 
 **Distribution of dot products (1D):**
@@ -139,7 +139,7 @@ for _ in range(1000):
 
 variance_10d = np.var(results_10d)
 print(f"Variance (10D): {variance_10d:.2f}")
-# Output: Variance (10D): ~10.0
+# Variance (10D): 9.81
 ```
 
 **Distribution of dot products (10D):**
@@ -175,7 +175,7 @@ for _ in range(1000):
 
 variance_1000d = np.var(results_1000d)
 print(f"Variance (1000D): {variance_1000d:.2f}")
-# Output: Variance (1000D): ~1000.0
+# Variance (1000D): 1074.97
 ```
 
 **Distribution of dot products (1000D):**
