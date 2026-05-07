@@ -34,5 +34,5 @@ Deep dive into Transformer architecture with detailed mathematical explanations 
 ## Author
 
 **Saif Ullah**  
-ML Engineer
+Data scientist
 [LinkedIn](https://linkedin.com/in/saifullah-ds)
